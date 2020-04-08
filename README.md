@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/mavlink/mavlink.svg?branch=master)](https://travis-ci.org/mavlink/mavlink)
-
 ## MAVLink ##
+
+[![Build Status](https://travis-ci.com/ThunderFly-aerospace/mavlink.svg?branch=master)](https://travis-ci.com/ThunderFly-aerospace/mavlink)
 
 MAVLink -- Micro Air Vehicle Message Marshalling Library.
 
